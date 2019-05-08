@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1557287675 source:c:\users\bruch\desktop\tp_2\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1557288093 source:c:\users\bruch\desktop\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"validation.h"
+	"funtionsABM.h"
+
+1557274933 c:\users\bruch\desktop\tp_2\validation.h
+
+1557281480 c:\users\bruch\desktop\tp_2\funtionsabm.h
+
+1557288054 source:c:\users\bruch\desktop\tp_2\funtions.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funtionsABM.h"
+	"validation.h"
+
