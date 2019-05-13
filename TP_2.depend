@@ -27,3 +27,22 @@
 	"funtionsABM.h"
 	"validation.h"
 
+1557720742 source:c:\users\bruch\desktop\tp2_laboratorioyprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"validation.h"
+	"funtionsABM.h"
+
+1557720743 c:\users\bruch\desktop\tp2_laboratorioyprogramacion\validation.h
+
+1557720983 c:\users\bruch\desktop\tp2_laboratorioyprogramacion\funtionsabm.h
+
+1557720743 source:c:\users\bruch\desktop\tp2_laboratorioyprogramacion\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
